@@ -1,0 +1,2 @@
+# GooFitCL
+GooFit OpenCl
